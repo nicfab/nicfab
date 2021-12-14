@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @nicfab
 - 👀 I’m interested in privacy, data protection, informatics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
+- 🌱 I would like to spend more time learning what I am interested in ... and it's so much stuff ....
+- 📫 How to reach me: See here https://notes.nicfab.it/contact/
 
 
 <!---
