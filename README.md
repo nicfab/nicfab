@@ -5,8 +5,8 @@
 ***
 
 - 🧑🏼‍💼 To see something about me:
-  - in EN [About me](https://notes.nicfab.eu/en/pages/about/);
-  - in IT [Chi sono](https://notes.nicfab.eu/it/pages/about/).
+  - in EN [About me](https://notes.nicfab.eu/en/pages/about/)
+  - in IT [Chi sono](https://notes.nicfab.eu/it/pages/about/)
 
 ***
 
