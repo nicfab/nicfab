@@ -5,14 +5,14 @@
 ***
 
 - 🧑🏼‍💼 To see something about me:
-  - in EN [About me](https://notes.nicfab.eu/en/pages/about/)
-  - in IT [Chi sono](https://notes.nicfab.eu/it/pages/about/)
+  - **EN** [About me](https://notes.nicfab.eu/en/pages/about/)
+  - **IT** [Chi sono](https://notes.nicfab.eu/it/pages/about/)
 
 ***
 
 - 📫 How to reach me:
-  - in EN: [How to contact me](https://notes.nicfab.eu/en/pages/about/#how-to-contact-me)
-  - in IT: [Come contattarmi](https://notes.nicfab.eu/it/pages/about/#come-contattarmi)
+  - **EN** [How to contact me](https://notes.nicfab.eu/en/pages/about/#how-to-contact-me)
+  - **IT** [Come contattarmi](https://notes.nicfab.eu/it/pages/about/#come-contattarmi)
 
 
 <!---
