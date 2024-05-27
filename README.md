@@ -54,6 +54,8 @@ or
 wget --secure-protocol=TLSv1_3 --max-redirect=0 -O nicfab.eu "https://openpgpkey.nicfab.eu/.well-known/openpgpkey/nicfab.eu/hu/s6wy17ps55re8usymdzz3ghq1z7uefof?l=nicola"
 ```
 
+Yiu can also retrieve my OpenPGP key [on GitHub here](https://github.com/nicfab.gpg).
+
 ***
 
 _Credits_ [duxsco](https://github.com/duxsco) for the WKD insights.
