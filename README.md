@@ -47,11 +47,11 @@ gpg --auto-key-locate clear,wkd --locate-external-keys "nicola at myGitHubUserna
 You can download the public key directly by using the following commands (you can obtain the URL with the tool Web Key Directory by Jonatan Miarecki by inputting the email address): 
 
 ```bash
-curl --tlsv1.2 -o nicfab.eu "https://openpgpkey.nicfab.eu/.well-known/openpgpkey/nicfab.eu/hu/s6wy17ps55re8usymdzz3ghq1z7uefof?l=nicola"
+curl --tlsv1.3 -o nicfab.eu "https://openpgpkey.nicfab.eu/.well-known/openpgpkey/nicfab.eu/hu/s6wy17ps55re8usymdzz3ghq1z7uefof?l=nicola"
 ```
 or
 ```bash
-wget --secure-protocol=TLSv1_2 --max-redirect=0 -O nicfab.eu "https://openpgpkey.nicfab.eu/.well-known/openpgpkey/nicfab.eu/hu/s6wy17ps55re8usymdzz3ghq1z7uefof?l=nicola"
+wget --secure-protocol=TLSv1_3 --max-redirect=0 -O nicfab.eu "https://openpgpkey.nicfab.eu/.well-known/openpgpkey/nicfab.eu/hu/s6wy17ps55re8usymdzz3ghq1z7uefof?l=nicola"
 ```
 
 You can also retrieve my OpenPGP key on GitHub here.
