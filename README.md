@@ -15,10 +15,10 @@
 # 📫 How to reach me and see my social profiles:
   
   - **EN**:
-    - [**linksta.cc**](https://nicfab.linksta.cc)
+    - [**links**](https://links.nicfab.eu)
     - [**How to contact me**](https://notes.nicfab.eu/en/pages/about/#how-to-contact-me)
   - **IT**:
-    - [**linksta.cc**](https://nicfab.linksta.cc)
+    - [**links**](https://links.nicfab.eu)
     - [**Come contattarmi**](https://notes.nicfab.eu/it/pages/about/#come-contattarmi)
 
 ***
