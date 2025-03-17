@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @nicfab
 
-- 👀 I’m interested in Privacy, Data Protection, Cybersecurity, and computer science.
+- 👀 I’m interested in AI, Privacy, Data Protection, Cybersecurity, and computer science.
 - 🌱 I would like to spend more time learning what interests me... and it's so much stuff...
 
 ***
