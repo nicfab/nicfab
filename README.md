@@ -266,12 +266,92 @@ location /.well-known/openpgpkey/ {
 - [ ] Add monitoring dashboard
 - [ ] Implement backup WKD server
 
+## 🔐 Keyoxide Integration
+
+My WKD setup integrates seamlessly with [Keyoxide](https://keyoxide.org/), a decentralized identity verification platform. This creates a **cryptographically verifiable digital identity** that proves:
+
+- ✅ I control the email addresses
+- ✅ I own the associated domain names  
+- ✅ I manage the linked social accounts
+- ✅ All without any central authority
+
+### Why This Matters
+
+In an era of deepfakes, phishing, and identity theft, cryptographic proof of identity is crucial. The combination of:
+
+- **WKD**: Proves domain control
+- **OpenPGP**: Provides cryptographic signatures
+- **Keyoxide**: Verifies cross-platform identity
+
+Creates an **unforgeable chain of trust** that definitively answers: "Is this really the person they claim to be?"
+
+### Verify My Identity
+
+You can verify my complete digital identity through Keyoxide:
+- Profile accessible at: `keyoxide.org/[email-address]`
+- All proofs cryptographically linked to my OpenPGP keys
+- No registration or central database required
+
+This isn't just about technology - it's about **digital sovereignty** and taking control of our online identities in a decentralized, privacy-respecting way.
+
+## 🔐 Keyoxide Integration: Verifiable Digital Identity
+
+My WKD setup integrates seamlessly with [Keyoxide](https://keyoxide.org/), a decentralized identity verification platform. This creates a **cryptographically verifiable digital identity**.
+
+### Why This Matters
+
+In an era of deepfakes, phishing, and identity theft, cryptographic proof of identity is crucial. The combination of:
+
+- **WKD**: Proves domain control through HTTPS
+- **OpenPGP**: Provides unforgeable cryptographic signatures
+- **Keyoxide**: Verifies cross-platform identity ownership
+
+Creates an **unbreakable chain of trust** that definitively answers: "Is this really the person they claim to be?"
+
+### How It Works
+
+```
+Email Address → WKD → OpenPGP Key → Keyoxide → Verified Identity
+     ↓           ↓          ↓           ↓            ↓
+"claimed"   "domain    "crypto    "identity    "proven
+            control"   signature"  proofs"      authentic"
+```
+
+### Verify My Identity
+
+You can verify my complete digital identity through Keyoxide:
+- Profile accessible at: `keyoxide.org/[email-address]`
+- All proofs cryptographically linked to my OpenPGP keys
+- No registration or central database required
+
+### Identity Proofs
+
+Keyoxide can verify ownership of:
+- GitHub/GitLab/Codeberg repositories
+- Mastodon and Fediverse accounts
+- Personal websites via DNS records
+- Social media profiles
+- Professional platforms
+- And many more...
+
+Each proof is cryptographically signed and impossible to forge.
+
+### The Bigger Picture
+
+This isn't just about technology - it's about:
+- **Digital Sovereignty**: You control your identity
+- **Decentralization**: No single point of failure
+- **Privacy**: No tracking or data collection
+- **Trust**: Mathematical proof, not corporate verification
+
+In a world where anyone can claim to be anyone online, WKD + Keyoxide provides the solution: **cryptographic certainty**.
+
 ## 🎓 Learning Resources
 
 ### Specifications
 - [Draft RFC: OpenPGP Web Key Directory](https://datatracker.ietf.org/doc/draft-koch-openpgp-webkey-service/)
 - [GnuPG WKD Wiki](https://wiki.gnupg.org/WKD)
-- [Keyoxide WKD Documentation](https://docs.keyoxide.org/wiki/web-key-directory/)
+- [Keyoxide Documentation](https://docs.keyoxide.org/)
 
 ### Implementation Guides
 - [My detailed article on WKD](https://notes.nicfab.eu/en/posts/wkd/)
